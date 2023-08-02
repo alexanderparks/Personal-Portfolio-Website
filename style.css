@@ -1,0 +1,11 @@
+/* Adjust the width and height of the logos as needed */
+.social-logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px; /* Add some spacing between logos */
+}
+
+/* Remove underline from anchor tags for social media logos */
+a.social-logo-link {
+    text-decoration: none;
+}
